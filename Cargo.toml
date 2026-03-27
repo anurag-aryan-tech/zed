@@ -102,6 +102,7 @@ members = [
     "crates/http_client_tls",
     "crates/icons",
     "crates/image_viewer",
+    "crates/video_viewer",
     "crates/inspector_ui",
     "crates/install_cli",
     "crates/journal",
@@ -983,3 +984,5 @@ ignored = [
     "documented",
     "sea-orm-macros",
 ]
+
+
